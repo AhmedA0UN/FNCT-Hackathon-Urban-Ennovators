@@ -1,0 +1,181 @@
+bin_id,zone,zone_density,lat,lng,bin_type,volume_nominal_m3,weight_empty_kg,dist_to_depot_km,street,installation_year
+BIN-001,Ariana Centre,high,36.860632,10.157948,240L,0.24,8,3.19,"Rue 29, Ariana Centre",2019
+BIN-002,Ariana Centre,high,36.861056,10.146156,1100L,1.1,55,3.35,"Rue 12, Ariana Centre",2022
+BIN-003,Ariana Centre,high,36.859942,10.161374,240L,0.24,8,3.14,"Rue 65, Ariana Centre",2022
+BIN-004,Ariana Centre,high,36.867942,10.16125,660L,0.66,26,4.02,"Rue 70, Ariana Centre",2021
+BIN-005,Ariana Centre,high,36.863916,10.172743,660L,0.66,26,3.85,"Rue 1, Ariana Centre",2019
+BIN-006,Ariana Centre,high,36.859477,10.150666,240L,0.24,8,3.09,"Rue 98, Ariana Centre",2020
+BIN-007,Ariana Centre,high,36.86867,10.166236,240L,0.24,8,4.18,"Rue 45, Ariana Centre",2022
+BIN-008,Ariana Centre,high,36.861743,10.163506,240L,0.24,8,3.37,"Rue 16, Ariana Centre",2021
+BIN-009,Ariana Centre,high,36.868438,10.164345,660L,0.66,26,4.12,"Rue 47, Ariana Centre",2022
+BIN-010,Ariana Centre,high,36.863264,10.164165,660L,0.66,26,3.55,"Rue 99, Ariana Centre",2020
+BIN-011,Ariana Centre,high,36.874444,10.158552,1100L,1.1,55,4.73,"Rue 49, Ariana Centre",2020
+BIN-012,Ariana Centre,high,36.850183,10.164451,240L,0.24,8,2.16,"Rue 46, Ariana Centre",2019
+BIN-013,Ariana Centre,high,36.856557,10.147593,660L,0.66,26,2.83,"Rue 10, Ariana Centre",2022
+BIN-014,Ariana Centre,high,36.855468,10.150742,240L,0.24,8,2.65,"Rue 60, Ariana Centre",2021
+BIN-015,Ariana Centre,high,36.860375,10.17612,660L,0.66,26,3.63,"Rue 29, Ariana Centre",2023
+BIN-016,Ariana Centre,high,36.85667,10.173221,240L,0.24,8,3.14,"Rue 5, Ariana Centre",2020
+BIN-017,Ariana Centre,high,36.859172,10.162528,1100L,1.1,55,3.08,"Rue 73, Ariana Centre",2023
+BIN-018,Ariana Centre,high,36.857675,10.17256,240L,0.24,8,3.21,"Rue 83, Ariana Centre",2021
+BIN-019,Ariana Centre,high,36.865148,10.164935,660L,0.66,26,3.77,"Rue 69, Ariana Centre",2020
+BIN-020,Ariana Centre,high,36.861834,10.148947,660L,0.66,26,3.38,"Rue 47, Ariana Centre",2019
+BIN-021,Ariana Centre,high,36.867025,10.159894,240L,0.24,8,3.91,"Rue 97, Ariana Centre",2018
+BIN-022,Ariana Centre,high,36.865396,10.154941,240L,0.24,8,3.71,"Rue 88, Ariana Centre",2021
+BIN-023,Ariana Centre,high,36.855109,10.154035,660L,0.66,26,2.58,"Rue 60, Ariana Centre",2022
+BIN-024,Ariana Centre,high,36.861911,10.172562,1100L,1.1,55,3.64,"Rue 88, Ariana Centre",2023
+BIN-025,Ariana Centre,high,36.871558,10.170473,660L,0.66,26,4.58,"Rue 99, Ariana Centre",2023
+BIN-026,Ariana Centre,high,36.85807,10.16772,240L,0.24,8,3.08,"Rue 1, Ariana Centre",2023
+BIN-027,Ariana Centre,high,36.86693,10.153904,660L,0.66,26,3.89,"Rue 23, Ariana Centre",2022
+BIN-028,Ariana Centre,high,36.872756,10.151777,240L,0.24,8,4.55,"Rue 82, Ariana Centre",2022
+BIN-029,Ariana Centre,high,36.857908,10.155824,660L,0.66,26,2.88,"Rue 70, Ariana Centre",2022
+BIN-030,Ariana Centre,high,36.871117,10.153595,240L,0.24,8,4.35,"Rue 15, Ariana Centre",2020
+BIN-031,Ariana Centre,high,36.870916,10.149366,240L,0.24,8,4.37,"Rue 8, Ariana Centre",2019
+BIN-032,Ariana Centre,high,36.871473,10.1486,240L,0.24,8,4.44,"Rue 63, Ariana Centre",2018
+BIN-033,Ariana Centre,high,36.871769,10.1583,240L,0.24,8,4.43,"Rue 85, Ariana Centre",2021
+BIN-034,Ariana Centre,high,36.867188,10.15775,660L,0.66,26,3.92,"Rue 78, Ariana Centre",2021
+BIN-035,Ariana Centre,high,36.874699,10.156385,660L,0.66,26,4.75,"Rue 89, Ariana Centre",2019
+BIN-036,Ariana Centre,high,36.860031,10.149619,660L,0.66,26,3.17,"Rue 48, Ariana Centre",2021
+BIN-037,Ariana Centre,high,36.869333,10.153307,240L,0.24,8,4.16,"Rue 9, Ariana Centre",2020
+BIN-038,Ariana Centre,high,36.87197,10.161657,660L,0.66,26,4.47,"Rue 1, Ariana Centre",2018
+BIN-039,Ariana Centre,high,36.861142,10.156045,240L,0.24,8,3.24,"Rue 5, Ariana Centre",2020
+BIN-040,Ariana Centre,high,36.86795,10.163549,660L,0.66,26,4.05,"Rue 28, Ariana Centre",2022
+BIN-041,Ettadhamen,high,36.848808,10.142066,660L,0.66,26,2.24,"Rue 61, Ettadhamen",2019
+BIN-042,Ettadhamen,high,36.842621,10.115184,240L,0.24,8,3.82,"Rue 13, Ettadhamen",2023
+BIN-043,Ettadhamen,high,36.832017,10.134613,240L,0.24,8,1.9,"Rue 94, Ettadhamen",2018
+BIN-044,Ettadhamen,high,36.833791,10.115154,240L,0.24,8,3.64,"Rue 52, Ettadhamen",2023
+BIN-045,Ettadhamen,high,36.833325,10.143271,240L,0.24,8,1.14,"Rue 25, Ettadhamen",2022
+BIN-046,Ettadhamen,high,36.831676,10.13348,240L,0.24,8,2.0,"Rue 32, Ettadhamen",2018
+BIN-047,Ettadhamen,high,36.82825,10.135481,660L,0.66,26,1.87,"Rue 7, Ettadhamen",2023
+BIN-048,Ettadhamen,high,36.852356,10.12993,1100L,1.1,55,3.24,"Rue 97, Ettadhamen",2019
+BIN-049,Ettadhamen,high,36.844727,10.140177,240L,0.24,8,2.0,"Rue 52, Ettadhamen",2018
+BIN-050,Ettadhamen,high,36.840321,10.130674,240L,0.24,8,2.44,"Rue 59, Ettadhamen",2020
+BIN-051,Ettadhamen,high,36.828295,10.137684,1100L,1.1,55,1.68,"Rue 72, Ettadhamen",2023
+BIN-052,Ettadhamen,high,36.838952,10.123487,240L,0.24,8,3.0,"Rue 8, Ettadhamen",2022
+BIN-053,Ettadhamen,high,36.839701,10.125848,240L,0.24,8,2.82,"Rue 7, Ettadhamen",2022
+BIN-054,Ettadhamen,high,36.82718,10.132353,660L,0.66,26,2.17,"Rue 8, Ettadhamen",2022
+BIN-055,Ettadhamen,high,36.845103,10.133511,660L,0.66,26,2.48,"Rue 87, Ettadhamen",2019
+BIN-056,Ettadhamen,high,36.829212,10.139314,660L,0.66,26,1.52,"Rue 75, Ettadhamen",2022
+BIN-057,Ettadhamen,high,36.843749,10.131195,660L,0.66,26,2.57,"Rue 73, Ettadhamen",2022
+BIN-058,Ettadhamen,high,36.837205,10.137884,660L,0.66,26,1.71,"Rue 41, Ettadhamen",2019
+BIN-059,Ettadhamen,high,36.839521,10.136079,660L,0.66,26,1.96,"Rue 59, Ettadhamen",2020
+BIN-060,Ettadhamen,high,36.851793,10.122954,240L,0.24,8,3.67,"Rue 80, Ettadhamen",2022
+BIN-061,Ettadhamen,high,36.843657,10.129888,240L,0.24,8,2.66,"Rue 34, Ettadhamen",2019
+BIN-062,Ettadhamen,high,36.851584,10.123547,1100L,1.1,55,3.62,"Rue 48, Ettadhamen",2020
+BIN-063,Ettadhamen,high,36.846758,10.1429,660L,0.66,26,2.01,"Rue 79, Ettadhamen",2023
+BIN-064,Ettadhamen,high,36.829138,10.127505,660L,0.66,26,2.56,"Rue 85, Ettadhamen",2018
+BIN-065,Ettadhamen,high,36.844592,10.127684,240L,0.24,8,2.88,"Rue 14, Ettadhamen",2023
+BIN-066,Ettadhamen,high,36.833338,10.127108,660L,0.66,26,2.58,"Rue 92, Ettadhamen",2020
+BIN-067,Ettadhamen,high,36.843093,10.14288,240L,0.24,8,1.7,"Rue 63, Ettadhamen",2020
+BIN-068,Ettadhamen,high,36.850296,10.121297,240L,0.24,8,3.7,"Rue 55, Ettadhamen",2020
+BIN-069,Ettadhamen,high,36.847507,10.132667,240L,0.24,8,2.7,"Rue 34, Ettadhamen",2019
+BIN-070,Ettadhamen,high,36.839447,10.117477,240L,0.24,8,3.53,"Rue 2, Ettadhamen",2018
+BIN-071,Ettadhamen,high,36.851306,10.137225,1100L,1.1,55,2.72,"Rue 70, Ettadhamen",2018
+BIN-072,Ettadhamen,high,36.845228,10.118891,240L,0.24,8,3.62,"Rue 17, Ettadhamen",2018
+BIN-073,Ettadhamen,high,36.835414,10.144949,660L,0.66,26,1.05,"Rue 6, Ettadhamen",2020
+BIN-074,Ettadhamen,high,36.841676,10.138171,240L,0.24,8,1.92,"Rue 72, Ettadhamen",2021
+BIN-075,Ettadhamen,high,36.851541,10.127608,1100L,1.1,55,3.33,"Rue 31, Ettadhamen",2019
+BIN-076,La Marsa,medium,36.890032,10.320734,1100L,1.1,55,16.01,"Rue 4, La Marsa",2019
+BIN-077,La Marsa,medium,36.877343,10.313298,1100L,1.1,55,14.88,"Rue 86, La Marsa",2023
+BIN-078,La Marsa,medium,36.8806,10.314902,660L,0.66,26,15.14,"Rue 14, La Marsa",2021
+BIN-079,La Marsa,medium,36.886695,10.311736,240L,0.24,8,15.13,"Rue 59, La Marsa",2020
+BIN-080,La Marsa,medium,36.873904,10.337169,240L,0.24,8,16.78,"Rue 4, La Marsa",2023
+BIN-081,La Marsa,medium,36.880708,10.332068,1100L,1.1,55,16.57,"Rue 99, La Marsa",2020
+BIN-082,La Marsa,medium,36.872275,10.332703,660L,0.66,26,16.35,"Rue 69, La Marsa",2020
+BIN-083,La Marsa,medium,36.882259,10.320862,1100L,1.1,55,15.7,"Rue 23, La Marsa",2022
+BIN-084,La Marsa,medium,36.884771,10.32097,240L,0.24,8,15.81,"Rue 56, La Marsa",2020
+BIN-085,La Marsa,medium,36.876983,10.313624,660L,0.66,26,14.89,"Rue 66, La Marsa",2018
+BIN-086,La Marsa,medium,36.870295,10.331471,240L,0.24,8,16.18,"Rue 91, La Marsa",2021
+BIN-087,La Marsa,medium,36.891,10.323173,660L,0.66,26,16.26,"Rue 93, La Marsa",2023
+BIN-088,La Marsa,medium,36.877512,10.315526,240L,0.24,8,15.07,"Rue 86, La Marsa",2020
+BIN-089,La Marsa,medium,36.870128,10.313384,240L,0.24,8,14.63,"Rue 39, La Marsa",2022
+BIN-090,La Marsa,medium,36.874857,10.333056,240L,0.24,8,16.46,"Rue 38, La Marsa",2022
+BIN-091,La Marsa,medium,36.884106,10.330856,1100L,1.1,55,16.6,"Rue 87, La Marsa",2023
+BIN-092,La Marsa,medium,36.886686,10.3154,240L,0.24,8,15.43,"Rue 71, La Marsa",2018
+BIN-093,La Marsa,medium,36.875943,10.330306,660L,0.66,26,16.26,"Rue 78, La Marsa",2023
+BIN-094,La Marsa,medium,36.874061,10.333091,660L,0.66,26,16.44,"Rue 66, La Marsa",2021
+BIN-095,La Marsa,medium,36.881593,10.30707,660L,0.66,26,14.53,"Rue 85, La Marsa",2018
+BIN-096,La Marsa,medium,36.87568,10.336456,660L,0.66,26,16.77,"Rue 12, La Marsa",2019
+BIN-097,La Marsa,medium,36.875013,10.315917,240L,0.24,8,15.01,"Rue 4, La Marsa",2018
+BIN-098,La Marsa,medium,36.878302,10.334639,660L,0.66,26,16.71,"Rue 10, La Marsa",2021
+BIN-099,La Marsa,medium,36.868789,10.329865,240L,0.24,8,16.0,"Rue 90, La Marsa",2021
+BIN-100,La Marsa,medium,36.871329,10.323295,660L,0.66,26,15.51,"Rue 1, La Marsa",2018
+BIN-101,El Menzah,medium,36.851123,10.192226,660L,0.66,26,3.86,"Rue 90, El Menzah",2022
+BIN-102,El Menzah,medium,36.84016,10.202785,1100L,1.1,55,4.26,"Rue 16, El Menzah",2021
+BIN-103,El Menzah,medium,36.856163,10.208555,660L,0.66,26,5.39,"Rue 72, El Menzah",2022
+BIN-104,El Menzah,medium,36.845181,10.213383,240L,0.24,8,5.31,"Rue 93, El Menzah",2022
+BIN-105,El Menzah,medium,36.838471,10.207144,240L,0.24,8,4.61,"Rue 21, El Menzah",2023
+BIN-106,El Menzah,medium,36.855844,10.191339,660L,0.66,26,4.11,"Rue 82, El Menzah",2020
+BIN-107,El Menzah,medium,36.850968,10.187867,660L,0.66,26,3.53,"Rue 36, El Menzah",2021
+BIN-108,El Menzah,medium,36.856384,10.204223,240L,0.24,8,5.08,"Rue 41, El Menzah",2022
+BIN-109,El Menzah,medium,36.85459,10.20318,240L,0.24,8,4.89,"Rue 20, El Menzah",2023
+BIN-110,El Menzah,medium,36.851955,10.210599,240L,0.24,8,5.34,"Rue 60, El Menzah",2021
+BIN-111,El Menzah,medium,36.861401,10.205877,240L,0.24,8,5.51,"Rue 99, El Menzah",2022
+BIN-112,El Menzah,medium,36.851781,10.199215,1100L,1.1,55,4.43,"Rue 74, El Menzah",2021
+BIN-113,El Menzah,medium,36.837016,10.202363,240L,0.24,8,4.16,"Rue 50, El Menzah",2021
+BIN-114,El Menzah,medium,36.83875,10.196557,660L,0.66,26,3.69,"Rue 29, El Menzah",2021
+BIN-115,El Menzah,medium,36.851704,10.210944,240L,0.24,8,5.36,"Rue 44, El Menzah",2023
+BIN-116,El Menzah,medium,36.8463,10.190309,240L,0.24,8,3.44,"Rue 60, El Menzah",2019
+BIN-117,El Menzah,medium,36.859804,10.198509,1100L,1.1,55,4.89,"Rue 76, El Menzah",2022
+BIN-118,El Menzah,medium,36.847965,10.19582,240L,0.24,8,3.96,"Rue 60, El Menzah",2019
+BIN-119,El Menzah,medium,36.857909,10.203231,240L,0.24,8,5.1,"Rue 42, El Menzah",2020
+BIN-120,El Menzah,medium,36.850587,10.189628,660L,0.66,26,3.64,"Rue 54, El Menzah",2020
+BIN-121,El Menzah,medium,36.854713,10.190028,660L,0.66,26,3.94,"Rue 7, El Menzah",2020
+BIN-122,El Menzah,medium,36.850571,10.204366,1100L,1.1,55,4.77,"Rue 6, El Menzah",2018
+BIN-123,El Menzah,medium,36.855734,10.197652,240L,0.24,8,4.55,"Rue 20, El Menzah",2019
+BIN-124,El Menzah,medium,36.857758,10.209845,660L,0.66,26,5.58,"Rue 28, El Menzah",2021
+BIN-125,El Menzah,medium,36.846305,10.18595,240L,0.24,8,3.1,"Rue 78, El Menzah",2023
+BIN-126,Raoued,low,36.887646,10.095392,240L,0.24,8,8.21,"Rue 40, Raoued",2018
+BIN-127,Raoued,low,36.878535,10.102273,660L,0.66,26,7.04,"Rue 49, Raoued",2021
+BIN-128,Raoued,low,36.895616,10.107295,660L,0.66,26,8.3,"Rue 81, Raoued",2019
+BIN-129,Raoued,low,36.899525,10.118872,1100L,1.1,55,8.2,"Rue 77, Raoued",2018
+BIN-130,Raoued,low,36.892911,10.097822,240L,0.24,8,8.52,"Rue 69, Raoued",2021
+BIN-131,Raoued,low,36.888127,10.106231,660L,0.66,26,7.65,"Rue 2, Raoued",2021
+BIN-132,Raoued,low,36.891927,10.105068,1100L,1.1,55,8.06,"Rue 82, Raoued",2021
+BIN-133,Raoued,low,36.887637,10.099249,660L,0.66,26,7.99,"Rue 84, Raoued",2020
+BIN-134,Raoued,low,36.880329,10.099215,660L,0.66,26,7.38,"Rue 60, Raoued",2021
+BIN-135,Raoued,low,36.894765,10.098439,240L,0.24,8,8.66,"Rue 32, Raoued",2018
+BIN-136,Raoued,low,36.88836,10.121158,660L,0.66,26,6.99,"Rue 73, Raoued",2022
+BIN-137,Raoued,low,36.886146,10.101467,240L,0.24,8,7.73,"Rue 42, Raoued",2019
+BIN-138,Raoued,low,36.881975,10.110787,240L,0.24,8,6.86,"Rue 36, Raoued",2022
+BIN-139,Raoued,low,36.887855,10.101534,240L,0.24,8,7.88,"Rue 25, Raoued",2018
+BIN-140,Raoued,low,36.890468,10.120756,660L,0.66,26,7.22,"Rue 31, Raoued",2023
+BIN-141,Raoued,low,36.878727,10.112133,240L,0.24,8,6.5,"Rue 3, Raoued",2018
+BIN-142,Raoued,low,36.887642,10.120332,240L,0.24,8,6.95,"Rue 85, Raoued",2022
+BIN-143,Raoued,low,36.883163,10.119216,240L,0.24,8,6.56,"Rue 96, Raoued",2022
+BIN-144,Raoued,low,36.884493,10.122379,240L,0.24,8,6.56,"Rue 33, Raoued",2019
+BIN-145,Raoued,low,36.894306,10.115098,240L,0.24,8,7.83,"Rue 69, Raoued",2023
+BIN-146,Sidi Thabet,low,36.922491,10.057219,240L,0.24,8,13.36,"Rue 93, Sidi Thabet",2022
+BIN-147,Sidi Thabet,low,36.929683,10.048207,240L,0.24,8,14.49,"Rue 13, Sidi Thabet",2019
+BIN-148,Sidi Thabet,low,36.917674,10.059729,240L,0.24,8,12.81,"Rue 91, Sidi Thabet",2022
+BIN-149,Sidi Thabet,low,36.922018,10.052575,240L,0.24,8,13.59,"Rue 38, Sidi Thabet",2023
+BIN-150,Sidi Thabet,low,36.930134,10.045355,660L,0.66,26,14.69,"Rue 14, Sidi Thabet",2018
+BIN-151,Sidi Thabet,low,36.911726,10.044803,240L,0.24,8,13.28,"Rue 24, Sidi Thabet",2018
+BIN-152,Sidi Thabet,low,36.919805,10.065689,240L,0.24,8,12.64,"Rue 9, Sidi Thabet",2021
+BIN-153,Sidi Thabet,low,36.909749,10.050666,660L,0.66,26,12.75,"Rue 20, Sidi Thabet",2019
+BIN-154,Sidi Thabet,low,36.924934,10.034733,240L,0.24,8,14.94,"Rue 32, Sidi Thabet",2018
+BIN-155,Sidi Thabet,low,36.911856,10.046109,660L,0.66,26,13.21,"Rue 80, Sidi Thabet",2019
+BIN-156,Sidi Thabet,low,36.92134,10.039711,1100L,1.1,55,14.34,"Rue 39, Sidi Thabet",2022
+BIN-157,Sidi Thabet,low,36.927453,10.049415,660L,0.66,26,14.23,"Rue 79, Sidi Thabet",2023
+BIN-158,Sidi Thabet,low,36.929581,10.058619,660L,0.66,26,13.88,"Rue 34, Sidi Thabet",2023
+BIN-159,Sidi Thabet,low,36.925776,10.054042,660L,0.66,26,13.82,"Rue 21, Sidi Thabet",2018
+BIN-160,Sidi Thabet,low,36.910583,10.05763,240L,0.24,8,12.37,"Rue 5, Sidi Thabet",2019
+BIN-161,Kalaat Landlous,low,36.948296,10.028735,1100L,1.1,55,17.18,"Rue 10, Kalaat Landlous",2023
+BIN-162,Kalaat Landlous,low,36.950723,10.02865,660L,0.66,26,17.39,"Rue 76, Kalaat Landlous",2023
+BIN-163,Kalaat Landlous,low,36.951997,10.012906,240L,0.24,8,18.44,"Rue 29, Kalaat Landlous",2023
+BIN-164,Kalaat Landlous,low,36.95413,10.027018,240L,0.24,8,17.78,"Rue 8, Kalaat Landlous",2019
+BIN-165,Kalaat Landlous,low,36.952759,10.007421,660L,0.66,26,18.84,"Rue 37, Kalaat Landlous",2021
+BIN-166,Kalaat Landlous,low,36.957962,10.029882,660L,0.66,26,17.94,"Rue 35, Kalaat Landlous",2022
+BIN-167,Kalaat Landlous,low,36.94134,10.017219,660L,0.66,26,17.33,"Rue 56, Kalaat Landlous",2023
+BIN-168,Kalaat Landlous,low,36.947032,10.027602,240L,0.24,8,17.15,"Rue 87, Kalaat Landlous",2022
+BIN-169,Kalaat Landlous,low,36.948338,10.018732,660L,0.66,26,17.79,"Rue 35, Kalaat Landlous",2022
+BIN-170,Kalaat Landlous,low,36.961378,10.023678,240L,0.24,8,18.59,"Rue 84, Kalaat Landlous",2021
+BIN-171,El Aouina,medium,36.839975,10.21638,660L,0.66,26,5.45,"Rue 82, El Aouina",2021
+BIN-172,El Aouina,medium,36.84409,10.217764,240L,0.24,8,5.66,"Rue 42, El Aouina",2023
+BIN-173,El Aouina,medium,36.83929,10.224137,240L,0.24,8,6.12,"Rue 64, El Aouina",2020
+BIN-174,El Aouina,medium,36.830536,10.210887,660L,0.66,26,4.89,"Rue 5, El Aouina",2021
+BIN-175,El Aouina,medium,36.840776,10.224458,240L,0.24,8,6.17,"Rue 99, El Aouina",2021
+BIN-176,El Aouina,medium,36.843112,10.208491,240L,0.24,8,4.83,"Rue 70, El Aouina",2021
+BIN-177,El Aouina,medium,36.829995,10.223792,240L,0.24,8,6.04,"Rue 97, El Aouina",2021
+BIN-178,El Aouina,medium,36.826691,10.209565,240L,0.24,8,4.8,"Rue 71, El Aouina",2019
+BIN-179,El Aouina,medium,36.843037,10.215094,660L,0.66,26,5.4,"Rue 16, El Aouina",2018
+BIN-180,El Aouina,medium,36.845395,10.217788,240L,0.24,8,5.7,"Rue 21, El Aouina",2020

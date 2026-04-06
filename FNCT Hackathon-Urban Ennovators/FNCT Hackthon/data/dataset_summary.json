@@ -1,0 +1,50 @@
+{
+  "dataset_info": {
+    "city": "Tunis",
+    "generated_at": "2026-04-03T21:04:49.646885",
+    "num_bins": 180,
+    "num_trucks": 6,
+    "num_days_sensor_data": 60,
+    "num_days_routes": 10,
+    "total_sensor_readings": 10800,
+    "total_training_pairs": 10
+  },
+  "bins_by_zone": {
+    "Ariana Centre": 40,
+    "El Aouina": 10,
+    "El Menzah": 25,
+    "Ettadhamen": 35,
+    "Kalaat Landlous": 10,
+    "La Marsa": 25,
+    "Raoued": 20,
+    "Sidi Thabet": 15
+  },
+  "bins_by_type": {
+    "1100L": 22,
+    "240L": 90,
+    "660L": 68
+  },
+  "trucks_by_type": {
+    "grand": 2,
+    "moyen": 3,
+    "petit": 1
+  },
+  "avg_daily_fill_pct_by_zone": {
+    "Ariana Centre": 32.4,
+    "El Aouina": 22.1,
+    "El Menzah": 22.0,
+    "Ettadhamen": 32.3,
+    "Kalaat Landlous": 13.8,
+    "La Marsa": 22.1,
+    "Raoued": 13.7,
+    "Sidi Thabet": 13.8
+  },
+  "avg_daily_distance_km": 512.1,
+  "files": {
+    "bins.csv": "180 rows — static bin info with GPS",
+    "trucks.csv": "6 rows — fleet configuration",
+    "daily_sensor_readings.csv": "10,800 rows — IoT sensor data (60 days)",
+    "optimal_routes.json": "10 days — optimized multi-truck routes",
+    "training_pairs.json": "10 pairs — (input JSON → output route JSON)"
+  }
+}

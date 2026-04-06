@@ -1,0 +1,788 @@
+{
+  "events": [
+    {
+      "id": "1775283435981-18be0a",
+      "ts": "2026-04-04T06:17:15.981Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-056",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283436742-15a7a3",
+      "ts": "2026-04-04T06:17:16.742Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-051",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283444148-190630",
+      "ts": "2026-04-04T06:17:24.148Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-047",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283463377-855d1d",
+      "ts": "2026-04-04T06:17:43.377Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-043",
+      "eventType": "probleme",
+      "payload": {}
+    },
+    {
+      "id": "1775283654454-9ef79a",
+      "ts": "2026-04-04T06:20:54.454Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-046",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283655292-83f471",
+      "ts": "2026-04-04T06:20:55.292Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-054",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283656130-2a49cc",
+      "ts": "2026-04-04T06:20:56.130Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-064",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283656830-f4dc60",
+      "ts": "2026-04-04T06:20:56.830Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-066",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283657506-11b1c7",
+      "ts": "2026-04-04T06:20:57.506Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-044",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283658155-109945",
+      "ts": "2026-04-04T06:20:58.155Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-070",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283658784-b5a2c7",
+      "ts": "2026-04-04T06:20:58.784Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-042",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283659354-7daf51",
+      "ts": "2026-04-04T06:20:59.354Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-072",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283659945-81ec2c",
+      "ts": "2026-04-04T06:20:59.945Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-052",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283660393-2e6fd1",
+      "ts": "2026-04-04T06:21:00.393Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-053",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283661107-1b2ca3",
+      "ts": "2026-04-04T06:21:01.107Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-065",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283661667-f01e3d",
+      "ts": "2026-04-04T06:21:01.667Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-061",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283662212-7824e1",
+      "ts": "2026-04-04T06:21:02.212Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-057",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283662755-f7f7f0",
+      "ts": "2026-04-04T06:21:02.755Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-055",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283663161-22a4c9",
+      "ts": "2026-04-04T06:21:03.161Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-069",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283663644-cfcffc",
+      "ts": "2026-04-04T06:21:03.644Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-048",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283664033-d95636",
+      "ts": "2026-04-04T06:21:04.033Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-075",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283664451-456914",
+      "ts": "2026-04-04T06:21:04.451Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-062",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283664839-98e29e",
+      "ts": "2026-04-04T06:21:04.839Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-060",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283665244-0dac03",
+      "ts": "2026-04-04T06:21:05.244Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-068",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283665635-05ac01",
+      "ts": "2026-04-04T06:21:05.635Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-141",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283666024-a6de17",
+      "ts": "2026-04-04T06:21:06.024Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-138",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283666397-45d779",
+      "ts": "2026-04-04T06:21:06.397Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-127",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283666832-a2a71e",
+      "ts": "2026-04-04T06:21:06.832Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-134",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283667205-655e3f",
+      "ts": "2026-04-04T06:21:07.205Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-137",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283667562-764677",
+      "ts": "2026-04-04T06:21:07.562Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-131",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283667937-21bdec",
+      "ts": "2026-04-04T06:21:07.937Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-139",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283668292-d10029",
+      "ts": "2026-04-04T06:21:08.292Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-133",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283668729-93f94c",
+      "ts": "2026-04-04T06:21:08.729Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-126",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283669176-be36e1",
+      "ts": "2026-04-04T06:21:09.176Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-160",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283669464-76230e",
+      "ts": "2026-04-04T06:21:09.464Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-153",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283669675-bb956c",
+      "ts": "2026-04-04T06:21:09.675Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-153",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283669919-89e6d2",
+      "ts": "2026-04-04T06:21:09.919Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-151",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283670186-e87b51",
+      "ts": "2026-04-04T06:21:10.186Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-151",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283670192-e6cbcb",
+      "ts": "2026-04-04T06:21:10.192Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-151",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283670539-38ba9c",
+      "ts": "2026-04-04T06:21:10.539Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-155",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283670608-0b3dc7",
+      "ts": "2026-04-04T06:21:10.608Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-155",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283670879-924d85",
+      "ts": "2026-04-04T06:21:10.879Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-148",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283671097-8cd6b0",
+      "ts": "2026-04-04T06:21:11.097Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-148",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283671250-243f82",
+      "ts": "2026-04-04T06:21:11.250Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-146",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283671457-1dd8d9",
+      "ts": "2026-04-04T06:21:11.457Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-146",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283671596-0c9664",
+      "ts": "2026-04-04T06:21:11.596Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-146",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283671733-346c8c",
+      "ts": "2026-04-04T06:21:11.733Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-149",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283671868-fb882b",
+      "ts": "2026-04-04T06:21:11.868Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-149",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283672008-6fafe3",
+      "ts": "2026-04-04T06:21:12.008Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-149",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283672158-476531",
+      "ts": "2026-04-04T06:21:12.158Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-156",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283672376-3ae654",
+      "ts": "2026-04-04T06:21:12.376Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-156",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283672517-cf3ae3",
+      "ts": "2026-04-04T06:21:12.517Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-154",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283672675-d2ab1c",
+      "ts": "2026-04-04T06:21:12.675Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-154",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283672891-362cce",
+      "ts": "2026-04-04T06:21:12.891Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-154",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283673285-faa342",
+      "ts": "2026-04-04T06:21:13.286Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-167",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283673442-5e29db",
+      "ts": "2026-04-04T06:21:13.442Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-167",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283673596-603731",
+      "ts": "2026-04-04T06:21:13.596Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-167",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283673672-69e036",
+      "ts": "2026-04-04T06:21:13.672Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-169",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283673874-8c73c9",
+      "ts": "2026-04-04T06:21:13.874Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-169",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283673947-fb9d6e",
+      "ts": "2026-04-04T06:21:13.947Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-169",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283674035-e3dde7",
+      "ts": "2026-04-04T06:21:14.035Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-169",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283674192-270c62",
+      "ts": "2026-04-04T06:21:14.192Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-163",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283674279-d34eba",
+      "ts": "2026-04-04T06:21:14.279Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-163",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283674432-c54f9e",
+      "ts": "2026-04-04T06:21:14.432Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-163",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283674605-4d24e2",
+      "ts": "2026-04-04T06:21:14.605Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-163",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283674684-7c93e9",
+      "ts": "2026-04-04T06:21:14.684Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-165",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283674840-68ad54",
+      "ts": "2026-04-04T06:21:14.840Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-165",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283675013-3fd69c",
+      "ts": "2026-04-04T06:21:15.013Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-165",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283675405-d5cf09",
+      "ts": "2026-04-04T06:21:15.405Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-170",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283675499-856a9a",
+      "ts": "2026-04-04T06:21:15.499Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-170",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283675635-5bef52",
+      "ts": "2026-04-04T06:21:15.635Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-170",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283675785-3f0679",
+      "ts": "2026-04-04T06:21:15.785Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-166",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283675989-04b28a",
+      "ts": "2026-04-04T06:21:15.989Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-166",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283676141-7e3ac4",
+      "ts": "2026-04-04T06:21:16.141Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-166",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283676291-277156",
+      "ts": "2026-04-04T06:21:16.291Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-164",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283676543-1d2e3c",
+      "ts": "2026-04-04T06:21:16.543Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-164",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283676638-d9fad1",
+      "ts": "2026-04-04T06:21:16.638Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-162",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283676790-420035",
+      "ts": "2026-04-04T06:21:16.790Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-162",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283676879-df26ba",
+      "ts": "2026-04-04T06:21:16.879Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-162",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283677072-6aa3b7",
+      "ts": "2026-04-04T06:21:17.072Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-162",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283677164-728c2b",
+      "ts": "2026-04-04T06:21:17.164Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-161",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283677303-a41a85",
+      "ts": "2026-04-04T06:21:17.303Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-161",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283677640-59d419",
+      "ts": "2026-04-04T06:21:17.640Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-168",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283677960-16e88d",
+      "ts": "2026-04-04T06:21:17.960Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-168",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283678134-bb0f85",
+      "ts": "2026-04-04T06:21:18.134Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-150",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283678305-17738f",
+      "ts": "2026-04-04T06:21:18.305Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-150",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283678442-494e23",
+      "ts": "2026-04-04T06:21:18.442Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-150",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283678658-bdcec5",
+      "ts": "2026-04-04T06:21:18.658Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-147",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283678792-422f65",
+      "ts": "2026-04-04T06:21:18.792Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-147",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283679006-ea161e",
+      "ts": "2026-04-04T06:21:19.006Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-157",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283679143-d9f74c",
+      "ts": "2026-04-04T06:21:19.143Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-157",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283679323-dee903",
+      "ts": "2026-04-04T06:21:19.323Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-157",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283679528-f3ff27",
+      "ts": "2026-04-04T06:21:19.528Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-159",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283679663-493d54",
+      "ts": "2026-04-04T06:21:19.663Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-159",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283679882-14f5dd",
+      "ts": "2026-04-04T06:21:19.882Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-158",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283680031-393994",
+      "ts": "2026-04-04T06:21:20.031Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-158",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283680271-3b2432",
+      "ts": "2026-04-04T06:21:20.271Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-158",
+      "eventType": "collecte",
+      "payload": {}
+    },
+    {
+      "id": "1775283680482-219846",
+      "ts": "2026-04-04T06:21:20.482Z",
+      "truckId": "CAM-01",
+      "binId": "BIN-152",
+      "eventType": "collecte",
+      "payload": {}
+    }
+  ]
+}

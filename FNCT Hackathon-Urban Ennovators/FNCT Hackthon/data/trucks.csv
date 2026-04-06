@@ -1,0 +1,7 @@
+truck_id,type,capacity_max_m3,speed_kmh,fuel_l_per_100km,plate,driver,year_purchased,depot_lat,depot_lng
+CAM-01,grand,16,22,28,TU 1224 TUN,Riadh Ayari,2020,36.832,10.156
+CAM-02,grand,16,22,28,TU 2527 TUN,Karim Trabelsi,2023,36.832,10.156
+CAM-03,moyen,10,25,20,TU 2858 TUN,Nabil Mansouri,2017,36.832,10.156
+CAM-04,moyen,10,25,20,TU 3522 TUN,Nabil Mansouri,2022,36.832,10.156
+CAM-05,moyen,10,25,20,TU 5781 TUN,Riadh Ayari,2022,36.832,10.156
+CAM-06,petit,6,28,14,TU 5479 TUN,Nabil Mansouri,2023,36.832,10.156

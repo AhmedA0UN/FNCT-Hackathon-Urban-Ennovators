@@ -1,0 +1,2313 @@
+{
+  "date": "2024-02-29",
+  "heure_generation": "07:00",
+  "tournees": [
+    {
+      "camion_id": "CAM-01",
+      "chauffeur": "Riadh Ayari",
+      "capacite_chargee_m3": 7.122,
+      "distance_totale_km": 60.16,
+      "duree_estimee_min": 374,
+      "nombre_arrets": 70,
+      "passages_decharge": 1,
+      "sequence": [
+        {
+          "ordre": 1,
+          "type": "collecte",
+          "poubelle_id": "BIN-056",
+          "position": {
+            "lat": 36.829212,
+            "lng": 10.139314
+          },
+          "volume_a_collecter_m3": 0.1756,
+          "taux_remplissage_pct": 26.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 2,
+          "type": "collecte",
+          "poubelle_id": "BIN-051",
+          "position": {
+            "lat": 36.828295,
+            "lng": 10.137684
+          },
+          "volume_a_collecter_m3": 0.3915,
+          "taux_remplissage_pct": 35.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 3,
+          "type": "collecte",
+          "poubelle_id": "BIN-047",
+          "position": {
+            "lat": 36.82825,
+            "lng": 10.135481
+          },
+          "volume_a_collecter_m3": 0.1989,
+          "taux_remplissage_pct": 30.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 4,
+          "type": "collecte",
+          "poubelle_id": "BIN-043",
+          "position": {
+            "lat": 36.832017,
+            "lng": 10.134613
+          },
+          "volume_a_collecter_m3": 0.0699,
+          "taux_remplissage_pct": 29.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 5,
+          "type": "collecte",
+          "poubelle_id": "BIN-046",
+          "position": {
+            "lat": 36.831676,
+            "lng": 10.13348
+          },
+          "volume_a_collecter_m3": 0.0936,
+          "taux_remplissage_pct": 39.0,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 6,
+          "type": "collecte",
+          "poubelle_id": "BIN-054",
+          "position": {
+            "lat": 36.82718,
+            "lng": 10.132353
+          },
+          "volume_a_collecter_m3": 0.2029,
+          "taux_remplissage_pct": 30.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 7,
+          "type": "collecte",
+          "poubelle_id": "BIN-064",
+          "position": {
+            "lat": 36.829138,
+            "lng": 10.127505
+          },
+          "volume_a_collecter_m3": 0.2112,
+          "taux_remplissage_pct": 32.0,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 8,
+          "type": "collecte",
+          "poubelle_id": "BIN-066",
+          "position": {
+            "lat": 36.833338,
+            "lng": 10.127108
+          },
+          "volume_a_collecter_m3": 0.2729,
+          "taux_remplissage_pct": 41.4,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 9,
+          "type": "collecte",
+          "poubelle_id": "BIN-044",
+          "position": {
+            "lat": 36.833791,
+            "lng": 10.115154
+          },
+          "volume_a_collecter_m3": 0.0702,
+          "taux_remplissage_pct": 29.2,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 10,
+          "type": "collecte",
+          "poubelle_id": "BIN-070",
+          "position": {
+            "lat": 36.839447,
+            "lng": 10.117477
+          },
+          "volume_a_collecter_m3": 0.0847,
+          "taux_remplissage_pct": 35.3,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 11,
+          "type": "collecte",
+          "poubelle_id": "BIN-042",
+          "position": {
+            "lat": 36.842621,
+            "lng": 10.115184
+          },
+          "volume_a_collecter_m3": 0.0716,
+          "taux_remplissage_pct": 29.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 12,
+          "type": "collecte",
+          "poubelle_id": "BIN-072",
+          "position": {
+            "lat": 36.845228,
+            "lng": 10.118891
+          },
+          "volume_a_collecter_m3": 0.1078,
+          "taux_remplissage_pct": 44.9,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 13,
+          "type": "collecte",
+          "poubelle_id": "BIN-052",
+          "position": {
+            "lat": 36.838952,
+            "lng": 10.123487
+          },
+          "volume_a_collecter_m3": 0.0934,
+          "taux_remplissage_pct": 38.9,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 14,
+          "type": "collecte",
+          "poubelle_id": "BIN-053",
+          "position": {
+            "lat": 36.839701,
+            "lng": 10.125848
+          },
+          "volume_a_collecter_m3": 0.0656,
+          "taux_remplissage_pct": 27.3,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 15,
+          "type": "collecte",
+          "poubelle_id": "BIN-065",
+          "position": {
+            "lat": 36.844592,
+            "lng": 10.127684
+          },
+          "volume_a_collecter_m3": 0.1023,
+          "taux_remplissage_pct": 42.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 16,
+          "type": "collecte",
+          "poubelle_id": "BIN-061",
+          "position": {
+            "lat": 36.843657,
+            "lng": 10.129888
+          },
+          "volume_a_collecter_m3": 0.0573,
+          "taux_remplissage_pct": 23.9,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 17,
+          "type": "collecte",
+          "poubelle_id": "BIN-057",
+          "position": {
+            "lat": 36.843749,
+            "lng": 10.131195
+          },
+          "volume_a_collecter_m3": 0.2128,
+          "taux_remplissage_pct": 32.2,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 18,
+          "type": "collecte",
+          "poubelle_id": "BIN-055",
+          "position": {
+            "lat": 36.845103,
+            "lng": 10.133511
+          },
+          "volume_a_collecter_m3": 0.2323,
+          "taux_remplissage_pct": 35.2,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 19,
+          "type": "collecte",
+          "poubelle_id": "BIN-069",
+          "position": {
+            "lat": 36.847507,
+            "lng": 10.132667
+          },
+          "volume_a_collecter_m3": 0.0684,
+          "taux_remplissage_pct": 28.5,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 20,
+          "type": "collecte",
+          "poubelle_id": "BIN-048",
+          "position": {
+            "lat": 36.852356,
+            "lng": 10.12993
+          },
+          "volume_a_collecter_m3": 0.2677,
+          "taux_remplissage_pct": 24.3,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 21,
+          "type": "collecte",
+          "poubelle_id": "BIN-075",
+          "position": {
+            "lat": 36.851541,
+            "lng": 10.127608
+          },
+          "volume_a_collecter_m3": 0.3501,
+          "taux_remplissage_pct": 31.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 22,
+          "type": "collecte",
+          "poubelle_id": "BIN-062",
+          "position": {
+            "lat": 36.851584,
+            "lng": 10.123547
+          },
+          "volume_a_collecter_m3": 0.4006,
+          "taux_remplissage_pct": 36.4,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 23,
+          "type": "collecte",
+          "poubelle_id": "BIN-060",
+          "position": {
+            "lat": 36.851793,
+            "lng": 10.122954
+          },
+          "volume_a_collecter_m3": 0.0698,
+          "taux_remplissage_pct": 29.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 24,
+          "type": "collecte",
+          "poubelle_id": "BIN-068",
+          "position": {
+            "lat": 36.850296,
+            "lng": 10.121297
+          },
+          "volume_a_collecter_m3": 0.086,
+          "taux_remplissage_pct": 35.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 25,
+          "type": "collecte",
+          "poubelle_id": "BIN-141",
+          "position": {
+            "lat": 36.878727,
+            "lng": 10.112133
+          },
+          "volume_a_collecter_m3": 0.0325,
+          "taux_remplissage_pct": 13.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 26,
+          "type": "collecte",
+          "poubelle_id": "BIN-138",
+          "position": {
+            "lat": 36.881975,
+            "lng": 10.110787
+          },
+          "volume_a_collecter_m3": 0.0368,
+          "taux_remplissage_pct": 15.3,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 27,
+          "type": "collecte",
+          "poubelle_id": "BIN-127",
+          "position": {
+            "lat": 36.878535,
+            "lng": 10.102273
+          },
+          "volume_a_collecter_m3": 0.117,
+          "taux_remplissage_pct": 17.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 28,
+          "type": "collecte",
+          "poubelle_id": "BIN-134",
+          "position": {
+            "lat": 36.880329,
+            "lng": 10.099215
+          },
+          "volume_a_collecter_m3": 0.1113,
+          "taux_remplissage_pct": 16.9,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 29,
+          "type": "collecte",
+          "poubelle_id": "BIN-137",
+          "position": {
+            "lat": 36.886146,
+            "lng": 10.101467
+          },
+          "volume_a_collecter_m3": 0.0375,
+          "taux_remplissage_pct": 15.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 30,
+          "type": "collecte",
+          "poubelle_id": "BIN-131",
+          "position": {
+            "lat": 36.888127,
+            "lng": 10.106231
+          },
+          "volume_a_collecter_m3": 0.1127,
+          "taux_remplissage_pct": 17.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 31,
+          "type": "collecte",
+          "poubelle_id": "BIN-139",
+          "position": {
+            "lat": 36.887855,
+            "lng": 10.101534
+          },
+          "volume_a_collecter_m3": 0.0379,
+          "taux_remplissage_pct": 15.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 32,
+          "type": "collecte",
+          "poubelle_id": "BIN-133",
+          "position": {
+            "lat": 36.887637,
+            "lng": 10.099249
+          },
+          "volume_a_collecter_m3": 0.0968,
+          "taux_remplissage_pct": 14.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 33,
+          "type": "collecte",
+          "poubelle_id": "BIN-126",
+          "position": {
+            "lat": 36.887646,
+            "lng": 10.095392
+          },
+          "volume_a_collecter_m3": 0.0449,
+          "taux_remplissage_pct": 18.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 34,
+          "type": "collecte",
+          "poubelle_id": "BIN-160",
+          "position": {
+            "lat": 36.910583,
+            "lng": 10.05763
+          },
+          "volume_a_collecter_m3": 0.0315,
+          "taux_remplissage_pct": 13.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 35,
+          "type": "collecte",
+          "poubelle_id": "BIN-153",
+          "position": {
+            "lat": 36.909749,
+            "lng": 10.050666
+          },
+          "volume_a_collecter_m3": 0.101,
+          "taux_remplissage_pct": 15.3,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 36,
+          "type": "collecte",
+          "poubelle_id": "BIN-151",
+          "position": {
+            "lat": 36.911726,
+            "lng": 10.044803
+          },
+          "volume_a_collecter_m3": 0.029,
+          "taux_remplissage_pct": 12.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 37,
+          "type": "collecte",
+          "poubelle_id": "BIN-155",
+          "position": {
+            "lat": 36.911856,
+            "lng": 10.046109
+          },
+          "volume_a_collecter_m3": 0.0627,
+          "taux_remplissage_pct": 9.5,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 38,
+          "type": "collecte",
+          "poubelle_id": "BIN-148",
+          "position": {
+            "lat": 36.917674,
+            "lng": 10.059729
+          },
+          "volume_a_collecter_m3": 0.0194,
+          "taux_remplissage_pct": 8.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 39,
+          "type": "collecte",
+          "poubelle_id": "BIN-146",
+          "position": {
+            "lat": 36.922491,
+            "lng": 10.057219
+          },
+          "volume_a_collecter_m3": 0.0284,
+          "taux_remplissage_pct": 11.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 40,
+          "type": "collecte",
+          "poubelle_id": "BIN-149",
+          "position": {
+            "lat": 36.922018,
+            "lng": 10.052575
+          },
+          "volume_a_collecter_m3": 0.0451,
+          "taux_remplissage_pct": 18.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 41,
+          "type": "collecte",
+          "poubelle_id": "BIN-156",
+          "position": {
+            "lat": 36.92134,
+            "lng": 10.039711
+          },
+          "volume_a_collecter_m3": 0.1089,
+          "taux_remplissage_pct": 9.9,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 42,
+          "type": "collecte",
+          "poubelle_id": "BIN-154",
+          "position": {
+            "lat": 36.924934,
+            "lng": 10.034733
+          },
+          "volume_a_collecter_m3": 0.0403,
+          "taux_remplissage_pct": 16.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 43,
+          "type": "collecte",
+          "poubelle_id": "BIN-167",
+          "position": {
+            "lat": 36.94134,
+            "lng": 10.017219
+          },
+          "volume_a_collecter_m3": 0.0923,
+          "taux_remplissage_pct": 14.0,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 44,
+          "type": "collecte",
+          "poubelle_id": "BIN-169",
+          "position": {
+            "lat": 36.948338,
+            "lng": 10.018732
+          },
+          "volume_a_collecter_m3": 0.0901,
+          "taux_remplissage_pct": 13.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 45,
+          "type": "collecte",
+          "poubelle_id": "BIN-163",
+          "position": {
+            "lat": 36.951997,
+            "lng": 10.012906
+          },
+          "volume_a_collecter_m3": 0.0336,
+          "taux_remplissage_pct": 14.0,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 46,
+          "type": "collecte",
+          "poubelle_id": "BIN-165",
+          "position": {
+            "lat": 36.952759,
+            "lng": 10.007421
+          },
+          "volume_a_collecter_m3": 0.051,
+          "taux_remplissage_pct": 7.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 47,
+          "type": "collecte",
+          "poubelle_id": "BIN-170",
+          "position": {
+            "lat": 36.961378,
+            "lng": 10.023678
+          },
+          "volume_a_collecter_m3": 0.0354,
+          "taux_remplissage_pct": 14.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 48,
+          "type": "collecte",
+          "poubelle_id": "BIN-166",
+          "position": {
+            "lat": 36.957962,
+            "lng": 10.029882
+          },
+          "volume_a_collecter_m3": 0.118,
+          "taux_remplissage_pct": 17.9,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 49,
+          "type": "collecte",
+          "poubelle_id": "BIN-164",
+          "position": {
+            "lat": 36.95413,
+            "lng": 10.027018
+          },
+          "volume_a_collecter_m3": 0.0193,
+          "taux_remplissage_pct": 8.0,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 50,
+          "type": "collecte",
+          "poubelle_id": "BIN-162",
+          "position": {
+            "lat": 36.950723,
+            "lng": 10.02865
+          },
+          "volume_a_collecter_m3": 0.0801,
+          "taux_remplissage_pct": 12.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 51,
+          "type": "collecte",
+          "poubelle_id": "BIN-161",
+          "position": {
+            "lat": 36.948296,
+            "lng": 10.028735
+          },
+          "volume_a_collecter_m3": 0.211,
+          "taux_remplissage_pct": 19.2,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 52,
+          "type": "collecte",
+          "poubelle_id": "BIN-168",
+          "position": {
+            "lat": 36.947032,
+            "lng": 10.027602
+          },
+          "volume_a_collecter_m3": 0.033,
+          "taux_remplissage_pct": 13.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 53,
+          "type": "collecte",
+          "poubelle_id": "BIN-150",
+          "position": {
+            "lat": 36.930134,
+            "lng": 10.045355
+          },
+          "volume_a_collecter_m3": 0.0836,
+          "taux_remplissage_pct": 12.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 54,
+          "type": "collecte",
+          "poubelle_id": "BIN-147",
+          "position": {
+            "lat": 36.929683,
+            "lng": 10.048207
+          },
+          "volume_a_collecter_m3": 0.0259,
+          "taux_remplissage_pct": 10.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 55,
+          "type": "collecte",
+          "poubelle_id": "BIN-157",
+          "position": {
+            "lat": 36.927453,
+            "lng": 10.049415
+          },
+          "volume_a_collecter_m3": 0.0835,
+          "taux_remplissage_pct": 12.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 56,
+          "type": "collecte",
+          "poubelle_id": "BIN-159",
+          "position": {
+            "lat": 36.925776,
+            "lng": 10.054042
+          },
+          "volume_a_collecter_m3": 0.1256,
+          "taux_remplissage_pct": 19.0,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 57,
+          "type": "collecte",
+          "poubelle_id": "BIN-158",
+          "position": {
+            "lat": 36.929581,
+            "lng": 10.058619
+          },
+          "volume_a_collecter_m3": 0.1093,
+          "taux_remplissage_pct": 16.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 58,
+          "type": "collecte",
+          "poubelle_id": "BIN-152",
+          "position": {
+            "lat": 36.919805,
+            "lng": 10.065689
+          },
+          "volume_a_collecter_m3": 0.0267,
+          "taux_remplissage_pct": 11.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 59,
+          "type": "collecte",
+          "poubelle_id": "BIN-135",
+          "position": {
+            "lat": 36.894765,
+            "lng": 10.098439
+          },
+          "volume_a_collecter_m3": 0.033,
+          "taux_remplissage_pct": 13.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 60,
+          "type": "collecte",
+          "poubelle_id": "BIN-130",
+          "position": {
+            "lat": 36.892911,
+            "lng": 10.097822
+          },
+          "volume_a_collecter_m3": 0.0252,
+          "taux_remplissage_pct": 10.5,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 61,
+          "type": "collecte",
+          "poubelle_id": "BIN-132",
+          "position": {
+            "lat": 36.891927,
+            "lng": 10.105068
+          },
+          "volume_a_collecter_m3": 0.1441,
+          "taux_remplissage_pct": 13.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 62,
+          "type": "collecte",
+          "poubelle_id": "BIN-128",
+          "position": {
+            "lat": 36.895616,
+            "lng": 10.107295
+          },
+          "volume_a_collecter_m3": 0.0819,
+          "taux_remplissage_pct": 12.4,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 63,
+          "type": "collecte",
+          "poubelle_id": "BIN-145",
+          "position": {
+            "lat": 36.894306,
+            "lng": 10.115098
+          },
+          "volume_a_collecter_m3": 0.0431,
+          "taux_remplissage_pct": 18.0,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 64,
+          "type": "collecte",
+          "poubelle_id": "BIN-129",
+          "position": {
+            "lat": 36.899525,
+            "lng": 10.118872
+          },
+          "volume_a_collecter_m3": 0.1675,
+          "taux_remplissage_pct": 15.2,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 65,
+          "type": "collecte",
+          "poubelle_id": "BIN-140",
+          "position": {
+            "lat": 36.890468,
+            "lng": 10.120756
+          },
+          "volume_a_collecter_m3": 0.0875,
+          "taux_remplissage_pct": 13.3,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 66,
+          "type": "collecte",
+          "poubelle_id": "BIN-136",
+          "position": {
+            "lat": 36.88836,
+            "lng": 10.121158
+          },
+          "volume_a_collecter_m3": 0.0845,
+          "taux_remplissage_pct": 12.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 67,
+          "type": "collecte",
+          "poubelle_id": "BIN-142",
+          "position": {
+            "lat": 36.887642,
+            "lng": 10.120332
+          },
+          "volume_a_collecter_m3": 0.0401,
+          "taux_remplissage_pct": 16.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 68,
+          "type": "collecte",
+          "poubelle_id": "BIN-143",
+          "position": {
+            "lat": 36.883163,
+            "lng": 10.119216
+          },
+          "volume_a_collecter_m3": 0.028,
+          "taux_remplissage_pct": 11.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 69,
+          "type": "collecte",
+          "poubelle_id": "BIN-144",
+          "position": {
+            "lat": 36.884493,
+            "lng": 10.122379
+          },
+          "volume_a_collecter_m3": 0.0326,
+          "taux_remplissage_pct": 13.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 70,
+          "type": "collecte",
+          "poubelle_id": "BIN-032",
+          "position": {
+            "lat": 36.871473,
+            "lng": 10.1486
+          },
+          "volume_a_collecter_m3": 0.0856,
+          "taux_remplissage_pct": 35.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 71,
+          "type": "fin_tournee_decharge",
+          "position": {
+            "lat": 36.92,
+            "lng": 10.08
+          },
+          "raison": "fin_tournee",
+          "decision": "retour_decharge_obligatoire",
+          "camion_relais": null
+        }
+      ]
+    },
+    {
+      "camion_id": "CAM-02",
+      "chauffeur": "Karim Trabelsi",
+      "capacite_chargee_m3": 7.909,
+      "distance_totale_km": 62.27,
+      "duree_estimee_min": 370,
+      "nombre_arrets": 67,
+      "passages_decharge": 1,
+      "sequence": [
+        {
+          "ordre": 1,
+          "type": "collecte",
+          "poubelle_id": "BIN-114",
+          "position": {
+            "lat": 36.83875,
+            "lng": 10.196557
+          },
+          "volume_a_collecter_m3": 0.1244,
+          "taux_remplissage_pct": 18.9,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 2,
+          "type": "collecte",
+          "poubelle_id": "BIN-102",
+          "position": {
+            "lat": 36.84016,
+            "lng": 10.202785
+          },
+          "volume_a_collecter_m3": 0.2931,
+          "taux_remplissage_pct": 26.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 3,
+          "type": "collecte",
+          "poubelle_id": "BIN-176",
+          "position": {
+            "lat": 36.843112,
+            "lng": 10.208491
+          },
+          "volume_a_collecter_m3": 0.0432,
+          "taux_remplissage_pct": 18.0,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 4,
+          "type": "collecte",
+          "poubelle_id": "BIN-105",
+          "position": {
+            "lat": 36.838471,
+            "lng": 10.207144
+          },
+          "volume_a_collecter_m3": 0.0554,
+          "taux_remplissage_pct": 23.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 5,
+          "type": "collecte",
+          "poubelle_id": "BIN-113",
+          "position": {
+            "lat": 36.837016,
+            "lng": 10.202363
+          },
+          "volume_a_collecter_m3": 0.0585,
+          "taux_remplissage_pct": 24.4,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 6,
+          "type": "collecte",
+          "poubelle_id": "BIN-174",
+          "position": {
+            "lat": 36.830536,
+            "lng": 10.210887
+          },
+          "volume_a_collecter_m3": 0.1589,
+          "taux_remplissage_pct": 24.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 7,
+          "type": "collecte",
+          "poubelle_id": "BIN-178",
+          "position": {
+            "lat": 36.826691,
+            "lng": 10.209565
+          },
+          "volume_a_collecter_m3": 0.0682,
+          "taux_remplissage_pct": 28.4,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 8,
+          "type": "collecte",
+          "poubelle_id": "BIN-177",
+          "position": {
+            "lat": 36.829995,
+            "lng": 10.223792
+          },
+          "volume_a_collecter_m3": 0.0504,
+          "taux_remplissage_pct": 21.0,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 9,
+          "type": "collecte",
+          "poubelle_id": "BIN-173",
+          "position": {
+            "lat": 36.83929,
+            "lng": 10.224137
+          },
+          "volume_a_collecter_m3": 0.0684,
+          "taux_remplissage_pct": 28.5,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 10,
+          "type": "collecte",
+          "poubelle_id": "BIN-175",
+          "position": {
+            "lat": 36.840776,
+            "lng": 10.224458
+          },
+          "volume_a_collecter_m3": 0.0431,
+          "taux_remplissage_pct": 18.0,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 11,
+          "type": "collecte",
+          "poubelle_id": "BIN-089",
+          "position": {
+            "lat": 36.870128,
+            "lng": 10.313384
+          },
+          "volume_a_collecter_m3": 0.069,
+          "taux_remplissage_pct": 28.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 12,
+          "type": "collecte",
+          "poubelle_id": "BIN-100",
+          "position": {
+            "lat": 36.871329,
+            "lng": 10.323295
+          },
+          "volume_a_collecter_m3": 0.1699,
+          "taux_remplissage_pct": 25.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 13,
+          "type": "collecte",
+          "poubelle_id": "BIN-099",
+          "position": {
+            "lat": 36.868789,
+            "lng": 10.329865
+          },
+          "volume_a_collecter_m3": 0.0538,
+          "taux_remplissage_pct": 22.4,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 14,
+          "type": "collecte",
+          "poubelle_id": "BIN-086",
+          "position": {
+            "lat": 36.870295,
+            "lng": 10.331471
+          },
+          "volume_a_collecter_m3": 0.0609,
+          "taux_remplissage_pct": 25.4,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 15,
+          "type": "collecte",
+          "poubelle_id": "BIN-082",
+          "position": {
+            "lat": 36.872275,
+            "lng": 10.332703
+          },
+          "volume_a_collecter_m3": 0.1601,
+          "taux_remplissage_pct": 24.3,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 16,
+          "type": "collecte",
+          "poubelle_id": "BIN-094",
+          "position": {
+            "lat": 36.874061,
+            "lng": 10.333091
+          },
+          "volume_a_collecter_m3": 0.1423,
+          "taux_remplissage_pct": 21.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 17,
+          "type": "collecte",
+          "poubelle_id": "BIN-090",
+          "position": {
+            "lat": 36.874857,
+            "lng": 10.333056
+          },
+          "volume_a_collecter_m3": 0.0481,
+          "taux_remplissage_pct": 20.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 18,
+          "type": "collecte",
+          "poubelle_id": "BIN-080",
+          "position": {
+            "lat": 36.873904,
+            "lng": 10.337169
+          },
+          "volume_a_collecter_m3": 0.067,
+          "taux_remplissage_pct": 27.9,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 19,
+          "type": "collecte",
+          "poubelle_id": "BIN-096",
+          "position": {
+            "lat": 36.87568,
+            "lng": 10.336456
+          },
+          "volume_a_collecter_m3": 0.1569,
+          "taux_remplissage_pct": 23.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 20,
+          "type": "collecte",
+          "poubelle_id": "BIN-098",
+          "position": {
+            "lat": 36.878302,
+            "lng": 10.334639
+          },
+          "volume_a_collecter_m3": 0.1458,
+          "taux_remplissage_pct": 22.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 21,
+          "type": "collecte",
+          "poubelle_id": "BIN-081",
+          "position": {
+            "lat": 36.880708,
+            "lng": 10.332068
+          },
+          "volume_a_collecter_m3": 0.2491,
+          "taux_remplissage_pct": 22.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 22,
+          "type": "collecte",
+          "poubelle_id": "BIN-091",
+          "position": {
+            "lat": 36.884106,
+            "lng": 10.330856
+          },
+          "volume_a_collecter_m3": 0.1336,
+          "taux_remplissage_pct": 12.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 23,
+          "type": "collecte",
+          "poubelle_id": "BIN-093",
+          "position": {
+            "lat": 36.875943,
+            "lng": 10.330306
+          },
+          "volume_a_collecter_m3": 0.1497,
+          "taux_remplissage_pct": 22.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 24,
+          "type": "collecte",
+          "poubelle_id": "BIN-097",
+          "position": {
+            "lat": 36.875013,
+            "lng": 10.315917
+          },
+          "volume_a_collecter_m3": 0.0408,
+          "taux_remplissage_pct": 17.0,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 25,
+          "type": "collecte",
+          "poubelle_id": "BIN-085",
+          "position": {
+            "lat": 36.876983,
+            "lng": 10.313624
+          },
+          "volume_a_collecter_m3": 0.1603,
+          "taux_remplissage_pct": 24.3,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 26,
+          "type": "collecte",
+          "poubelle_id": "BIN-077",
+          "position": {
+            "lat": 36.877343,
+            "lng": 10.313298
+          },
+          "volume_a_collecter_m3": 0.1675,
+          "taux_remplissage_pct": 15.2,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 27,
+          "type": "collecte",
+          "poubelle_id": "BIN-088",
+          "position": {
+            "lat": 36.877512,
+            "lng": 10.315526
+          },
+          "volume_a_collecter_m3": 0.0386,
+          "taux_remplissage_pct": 16.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 28,
+          "type": "collecte",
+          "poubelle_id": "BIN-078",
+          "position": {
+            "lat": 36.8806,
+            "lng": 10.314902
+          },
+          "volume_a_collecter_m3": 0.1373,
+          "taux_remplissage_pct": 20.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 29,
+          "type": "collecte",
+          "poubelle_id": "BIN-083",
+          "position": {
+            "lat": 36.882259,
+            "lng": 10.320862
+          },
+          "volume_a_collecter_m3": 0.2404,
+          "taux_remplissage_pct": 21.9,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 30,
+          "type": "collecte",
+          "poubelle_id": "BIN-084",
+          "position": {
+            "lat": 36.884771,
+            "lng": 10.32097
+          },
+          "volume_a_collecter_m3": 0.0493,
+          "taux_remplissage_pct": 20.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 31,
+          "type": "collecte",
+          "poubelle_id": "BIN-087",
+          "position": {
+            "lat": 36.891,
+            "lng": 10.323173
+          },
+          "volume_a_collecter_m3": 0.1505,
+          "taux_remplissage_pct": 22.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 32,
+          "type": "collecte",
+          "poubelle_id": "BIN-076",
+          "position": {
+            "lat": 36.890032,
+            "lng": 10.320734
+          },
+          "volume_a_collecter_m3": 0.3273,
+          "taux_remplissage_pct": 29.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 33,
+          "type": "collecte",
+          "poubelle_id": "BIN-092",
+          "position": {
+            "lat": 36.886686,
+            "lng": 10.3154
+          },
+          "volume_a_collecter_m3": 0.0687,
+          "taux_remplissage_pct": 28.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 34,
+          "type": "collecte",
+          "poubelle_id": "BIN-079",
+          "position": {
+            "lat": 36.886695,
+            "lng": 10.311736
+          },
+          "volume_a_collecter_m3": 0.0314,
+          "taux_remplissage_pct": 13.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 35,
+          "type": "collecte",
+          "poubelle_id": "BIN-095",
+          "position": {
+            "lat": 36.881593,
+            "lng": 10.30707
+          },
+          "volume_a_collecter_m3": 0.1483,
+          "taux_remplissage_pct": 22.5,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 36,
+          "type": "collecte",
+          "poubelle_id": "BIN-180",
+          "position": {
+            "lat": 36.845395,
+            "lng": 10.217788
+          },
+          "volume_a_collecter_m3": 0.0496,
+          "taux_remplissage_pct": 20.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 37,
+          "type": "collecte",
+          "poubelle_id": "BIN-172",
+          "position": {
+            "lat": 36.84409,
+            "lng": 10.217764
+          },
+          "volume_a_collecter_m3": 0.0736,
+          "taux_remplissage_pct": 30.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 38,
+          "type": "collecte",
+          "poubelle_id": "BIN-171",
+          "position": {
+            "lat": 36.839975,
+            "lng": 10.21638
+          },
+          "volume_a_collecter_m3": 0.1418,
+          "taux_remplissage_pct": 21.5,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 39,
+          "type": "collecte",
+          "poubelle_id": "BIN-179",
+          "position": {
+            "lat": 36.843037,
+            "lng": 10.215094
+          },
+          "volume_a_collecter_m3": 0.1426,
+          "taux_remplissage_pct": 21.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 40,
+          "type": "collecte",
+          "poubelle_id": "BIN-104",
+          "position": {
+            "lat": 36.845181,
+            "lng": 10.213383
+          },
+          "volume_a_collecter_m3": 0.0609,
+          "taux_remplissage_pct": 25.4,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 41,
+          "type": "collecte",
+          "poubelle_id": "BIN-115",
+          "position": {
+            "lat": 36.851704,
+            "lng": 10.210944
+          },
+          "volume_a_collecter_m3": 0.0473,
+          "taux_remplissage_pct": 19.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 42,
+          "type": "collecte",
+          "poubelle_id": "BIN-110",
+          "position": {
+            "lat": 36.851955,
+            "lng": 10.210599
+          },
+          "volume_a_collecter_m3": 0.0507,
+          "taux_remplissage_pct": 21.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 43,
+          "type": "collecte",
+          "poubelle_id": "BIN-103",
+          "position": {
+            "lat": 36.856163,
+            "lng": 10.208555
+          },
+          "volume_a_collecter_m3": 0.1898,
+          "taux_remplissage_pct": 28.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 44,
+          "type": "collecte",
+          "poubelle_id": "BIN-124",
+          "position": {
+            "lat": 36.857758,
+            "lng": 10.209845
+          },
+          "volume_a_collecter_m3": 0.1367,
+          "taux_remplissage_pct": 20.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 45,
+          "type": "collecte",
+          "poubelle_id": "BIN-111",
+          "position": {
+            "lat": 36.861401,
+            "lng": 10.205877
+          },
+          "volume_a_collecter_m3": 0.0471,
+          "taux_remplissage_pct": 19.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 46,
+          "type": "collecte",
+          "poubelle_id": "BIN-119",
+          "position": {
+            "lat": 36.857909,
+            "lng": 10.203231
+          },
+          "volume_a_collecter_m3": 0.0473,
+          "taux_remplissage_pct": 19.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 47,
+          "type": "collecte",
+          "poubelle_id": "BIN-108",
+          "position": {
+            "lat": 36.856384,
+            "lng": 10.204223
+          },
+          "volume_a_collecter_m3": 0.0441,
+          "taux_remplissage_pct": 18.4,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 48,
+          "type": "collecte",
+          "poubelle_id": "BIN-109",
+          "position": {
+            "lat": 36.85459,
+            "lng": 10.20318
+          },
+          "volume_a_collecter_m3": 0.0542,
+          "taux_remplissage_pct": 22.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 49,
+          "type": "collecte",
+          "poubelle_id": "BIN-122",
+          "position": {
+            "lat": 36.850571,
+            "lng": 10.204366
+          },
+          "volume_a_collecter_m3": 0.2809,
+          "taux_remplissage_pct": 25.5,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 50,
+          "type": "collecte",
+          "poubelle_id": "BIN-112",
+          "position": {
+            "lat": 36.851781,
+            "lng": 10.199215
+          },
+          "volume_a_collecter_m3": 0.1581,
+          "taux_remplissage_pct": 14.4,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 51,
+          "type": "collecte",
+          "poubelle_id": "BIN-123",
+          "position": {
+            "lat": 36.855734,
+            "lng": 10.197652
+          },
+          "volume_a_collecter_m3": 0.0487,
+          "taux_remplissage_pct": 20.3,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 52,
+          "type": "collecte",
+          "poubelle_id": "BIN-117",
+          "position": {
+            "lat": 36.859804,
+            "lng": 10.198509
+          },
+          "volume_a_collecter_m3": 0.2414,
+          "taux_remplissage_pct": 21.9,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 53,
+          "type": "collecte",
+          "poubelle_id": "BIN-106",
+          "position": {
+            "lat": 36.855844,
+            "lng": 10.191339
+          },
+          "volume_a_collecter_m3": 0.1428,
+          "taux_remplissage_pct": 21.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 54,
+          "type": "collecte",
+          "poubelle_id": "BIN-121",
+          "position": {
+            "lat": 36.854713,
+            "lng": 10.190028
+          },
+          "volume_a_collecter_m3": 0.1281,
+          "taux_remplissage_pct": 19.4,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 55,
+          "type": "collecte",
+          "poubelle_id": "BIN-107",
+          "position": {
+            "lat": 36.850968,
+            "lng": 10.187867
+          },
+          "volume_a_collecter_m3": 0.1581,
+          "taux_remplissage_pct": 24.0,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 56,
+          "type": "collecte",
+          "poubelle_id": "BIN-120",
+          "position": {
+            "lat": 36.850587,
+            "lng": 10.189628
+          },
+          "volume_a_collecter_m3": 0.1809,
+          "taux_remplissage_pct": 27.4,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 57,
+          "type": "collecte",
+          "poubelle_id": "BIN-101",
+          "position": {
+            "lat": 36.851123,
+            "lng": 10.192226
+          },
+          "volume_a_collecter_m3": 0.126,
+          "taux_remplissage_pct": 19.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 58,
+          "type": "collecte",
+          "poubelle_id": "BIN-118",
+          "position": {
+            "lat": 36.847965,
+            "lng": 10.19582
+          },
+          "volume_a_collecter_m3": 0.0547,
+          "taux_remplissage_pct": 22.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 59,
+          "type": "collecte",
+          "poubelle_id": "BIN-116",
+          "position": {
+            "lat": 36.8463,
+            "lng": 10.190309
+          },
+          "volume_a_collecter_m3": 0.0622,
+          "taux_remplissage_pct": 25.9,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 60,
+          "type": "collecte",
+          "poubelle_id": "BIN-125",
+          "position": {
+            "lat": 36.846305,
+            "lng": 10.18595
+          },
+          "volume_a_collecter_m3": 0.0353,
+          "taux_remplissage_pct": 14.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 61,
+          "type": "collecte",
+          "poubelle_id": "BIN-016",
+          "position": {
+            "lat": 36.85667,
+            "lng": 10.173221
+          },
+          "volume_a_collecter_m3": 0.0822,
+          "taux_remplissage_pct": 34.2,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 62,
+          "type": "collecte",
+          "poubelle_id": "BIN-018",
+          "position": {
+            "lat": 36.857675,
+            "lng": 10.17256
+          },
+          "volume_a_collecter_m3": 0.0744,
+          "taux_remplissage_pct": 31.0,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 63,
+          "type": "collecte",
+          "poubelle_id": "BIN-015",
+          "position": {
+            "lat": 36.860375,
+            "lng": 10.17612
+          },
+          "volume_a_collecter_m3": 0.2628,
+          "taux_remplissage_pct": 39.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 64,
+          "type": "collecte",
+          "poubelle_id": "BIN-005",
+          "position": {
+            "lat": 36.863916,
+            "lng": 10.172743
+          },
+          "volume_a_collecter_m3": 0.1989,
+          "taux_remplissage_pct": 30.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 65,
+          "type": "collecte",
+          "poubelle_id": "BIN-024",
+          "position": {
+            "lat": 36.861911,
+            "lng": 10.172562
+          },
+          "volume_a_collecter_m3": 0.3232,
+          "taux_remplissage_pct": 29.4,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 66,
+          "type": "collecte",
+          "poubelle_id": "BIN-026",
+          "position": {
+            "lat": 36.85807,
+            "lng": 10.16772
+          },
+          "volume_a_collecter_m3": 0.072,
+          "taux_remplissage_pct": 30.0,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 67,
+          "type": "collecte",
+          "poubelle_id": "BIN-012",
+          "position": {
+            "lat": 36.850183,
+            "lng": 10.164451
+          },
+          "volume_a_collecter_m3": 0.0627,
+          "taux_remplissage_pct": 26.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 68,
+          "type": "fin_tournee_decharge",
+          "position": {
+            "lat": 36.92,
+            "lng": 10.08
+          },
+          "raison": "fin_tournee",
+          "decision": "retour_decharge_obligatoire",
+          "camion_relais": null
+        }
+      ]
+    },
+    {
+      "camion_id": "CAM-03",
+      "chauffeur": "Nabil Mansouri",
+      "capacite_chargee_m3": 7.28,
+      "distance_totale_km": 28.8,
+      "duree_estimee_min": 218,
+      "nombre_arrets": 43,
+      "passages_decharge": 1,
+      "sequence": [
+        {
+          "ordre": 1,
+          "type": "collecte",
+          "poubelle_id": "BIN-017",
+          "position": {
+            "lat": 36.859172,
+            "lng": 10.162528
+          },
+          "volume_a_collecter_m3": 0.3563,
+          "taux_remplissage_pct": 32.4,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 2,
+          "type": "collecte",
+          "poubelle_id": "BIN-003",
+          "position": {
+            "lat": 36.859942,
+            "lng": 10.161374
+          },
+          "volume_a_collecter_m3": 0.0678,
+          "taux_remplissage_pct": 28.3,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 3,
+          "type": "collecte",
+          "poubelle_id": "BIN-008",
+          "position": {
+            "lat": 36.861743,
+            "lng": 10.163506
+          },
+          "volume_a_collecter_m3": 0.0654,
+          "taux_remplissage_pct": 27.3,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 4,
+          "type": "collecte",
+          "poubelle_id": "BIN-010",
+          "position": {
+            "lat": 36.863264,
+            "lng": 10.164165
+          },
+          "volume_a_collecter_m3": 0.1944,
+          "taux_remplissage_pct": 29.5,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 5,
+          "type": "collecte",
+          "poubelle_id": "BIN-019",
+          "position": {
+            "lat": 36.865148,
+            "lng": 10.164935
+          },
+          "volume_a_collecter_m3": 0.2489,
+          "taux_remplissage_pct": 37.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 6,
+          "type": "collecte",
+          "poubelle_id": "BIN-021",
+          "position": {
+            "lat": 36.867025,
+            "lng": 10.159894
+          },
+          "volume_a_collecter_m3": 0.0859,
+          "taux_remplissage_pct": 35.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 7,
+          "type": "collecte",
+          "poubelle_id": "BIN-034",
+          "position": {
+            "lat": 36.867188,
+            "lng": 10.15775
+          },
+          "volume_a_collecter_m3": 0.2302,
+          "taux_remplissage_pct": 34.9,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 8,
+          "type": "collecte",
+          "poubelle_id": "BIN-004",
+          "position": {
+            "lat": 36.867942,
+            "lng": 10.16125
+          },
+          "volume_a_collecter_m3": 0.211,
+          "taux_remplissage_pct": 32.0,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 9,
+          "type": "collecte",
+          "poubelle_id": "BIN-040",
+          "position": {
+            "lat": 36.86795,
+            "lng": 10.163549
+          },
+          "volume_a_collecter_m3": 0.2108,
+          "taux_remplissage_pct": 31.9,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 10,
+          "type": "collecte",
+          "poubelle_id": "BIN-009",
+          "position": {
+            "lat": 36.868438,
+            "lng": 10.164345
+          },
+          "volume_a_collecter_m3": 0.2263,
+          "taux_remplissage_pct": 34.3,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 11,
+          "type": "collecte",
+          "poubelle_id": "BIN-007",
+          "position": {
+            "lat": 36.86867,
+            "lng": 10.166236
+          },
+          "volume_a_collecter_m3": 0.0923,
+          "taux_remplissage_pct": 38.5,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 12,
+          "type": "collecte",
+          "poubelle_id": "BIN-025",
+          "position": {
+            "lat": 36.871558,
+            "lng": 10.170473
+          },
+          "volume_a_collecter_m3": 0.2129,
+          "taux_remplissage_pct": 32.3,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 13,
+          "type": "collecte",
+          "poubelle_id": "BIN-038",
+          "position": {
+            "lat": 36.87197,
+            "lng": 10.161657
+          },
+          "volume_a_collecter_m3": 0.2819,
+          "taux_remplissage_pct": 42.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 14,
+          "type": "collecte",
+          "poubelle_id": "BIN-033",
+          "position": {
+            "lat": 36.871769,
+            "lng": 10.1583
+          },
+          "volume_a_collecter_m3": 0.0588,
+          "taux_remplissage_pct": 24.5,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 15,
+          "type": "collecte",
+          "poubelle_id": "BIN-011",
+          "position": {
+            "lat": 36.874444,
+            "lng": 10.158552
+          },
+          "volume_a_collecter_m3": 0.3122,
+          "taux_remplissage_pct": 28.4,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 16,
+          "type": "collecte",
+          "poubelle_id": "BIN-035",
+          "position": {
+            "lat": 36.874699,
+            "lng": 10.156385
+          },
+          "volume_a_collecter_m3": 0.1909,
+          "taux_remplissage_pct": 28.9,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 17,
+          "type": "collecte",
+          "poubelle_id": "BIN-028",
+          "position": {
+            "lat": 36.872756,
+            "lng": 10.151777
+          },
+          "volume_a_collecter_m3": 0.0835,
+          "taux_remplissage_pct": 34.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 18,
+          "type": "collecte",
+          "poubelle_id": "BIN-031",
+          "position": {
+            "lat": 36.870916,
+            "lng": 10.149366
+          },
+          "volume_a_collecter_m3": 0.0852,
+          "taux_remplissage_pct": 35.5,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 19,
+          "type": "collecte",
+          "poubelle_id": "BIN-030",
+          "position": {
+            "lat": 36.871117,
+            "lng": 10.153595
+          },
+          "volume_a_collecter_m3": 0.0968,
+          "taux_remplissage_pct": 40.3,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 20,
+          "type": "collecte",
+          "poubelle_id": "BIN-037",
+          "position": {
+            "lat": 36.869333,
+            "lng": 10.153307
+          },
+          "volume_a_collecter_m3": 0.0625,
+          "taux_remplissage_pct": 26.0,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 21,
+          "type": "collecte",
+          "poubelle_id": "BIN-027",
+          "position": {
+            "lat": 36.86693,
+            "lng": 10.153904
+          },
+          "volume_a_collecter_m3": 0.2253,
+          "taux_remplissage_pct": 34.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 22,
+          "type": "collecte",
+          "poubelle_id": "BIN-022",
+          "position": {
+            "lat": 36.865396,
+            "lng": 10.154941
+          },
+          "volume_a_collecter_m3": 0.058,
+          "taux_remplissage_pct": 24.2,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 23,
+          "type": "collecte",
+          "poubelle_id": "BIN-039",
+          "position": {
+            "lat": 36.861142,
+            "lng": 10.156045
+          },
+          "volume_a_collecter_m3": 0.0959,
+          "taux_remplissage_pct": 39.9,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 24,
+          "type": "collecte",
+          "poubelle_id": "BIN-001",
+          "position": {
+            "lat": 36.860632,
+            "lng": 10.157948
+          },
+          "volume_a_collecter_m3": 0.0682,
+          "taux_remplissage_pct": 28.4,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 25,
+          "type": "collecte",
+          "poubelle_id": "BIN-029",
+          "position": {
+            "lat": 36.857908,
+            "lng": 10.155824
+          },
+          "volume_a_collecter_m3": 0.1763,
+          "taux_remplissage_pct": 26.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 26,
+          "type": "collecte",
+          "poubelle_id": "BIN-023",
+          "position": {
+            "lat": 36.855109,
+            "lng": 10.154035
+          },
+          "volume_a_collecter_m3": 0.2333,
+          "taux_remplissage_pct": 35.3,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 27,
+          "type": "collecte",
+          "poubelle_id": "BIN-014",
+          "position": {
+            "lat": 36.855468,
+            "lng": 10.150742
+          },
+          "volume_a_collecter_m3": 0.0968,
+          "taux_remplissage_pct": 40.4,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 28,
+          "type": "collecte",
+          "poubelle_id": "BIN-006",
+          "position": {
+            "lat": 36.859477,
+            "lng": 10.150666
+          },
+          "volume_a_collecter_m3": 0.0835,
+          "taux_remplissage_pct": 34.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 29,
+          "type": "collecte",
+          "poubelle_id": "BIN-036",
+          "position": {
+            "lat": 36.860031,
+            "lng": 10.149619
+          },
+          "volume_a_collecter_m3": 0.1684,
+          "taux_remplissage_pct": 25.5,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 30,
+          "type": "collecte",
+          "poubelle_id": "BIN-020",
+          "position": {
+            "lat": 36.861834,
+            "lng": 10.148947
+          },
+          "volume_a_collecter_m3": 0.2102,
+          "taux_remplissage_pct": 31.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 31,
+          "type": "collecte",
+          "poubelle_id": "BIN-002",
+          "position": {
+            "lat": 36.861056,
+            "lng": 10.146156
+          },
+          "volume_a_collecter_m3": 0.3748,
+          "taux_remplissage_pct": 34.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 32,
+          "type": "collecte",
+          "poubelle_id": "BIN-013",
+          "position": {
+            "lat": 36.856557,
+            "lng": 10.147593
+          },
+          "volume_a_collecter_m3": 0.2178,
+          "taux_remplissage_pct": 33.0,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 33,
+          "type": "collecte",
+          "poubelle_id": "BIN-071",
+          "position": {
+            "lat": 36.851306,
+            "lng": 10.137225
+          },
+          "volume_a_collecter_m3": 0.2956,
+          "taux_remplissage_pct": 26.9,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 34,
+          "type": "collecte",
+          "poubelle_id": "BIN-041",
+          "position": {
+            "lat": 36.848808,
+            "lng": 10.142066
+          },
+          "volume_a_collecter_m3": 0.2351,
+          "taux_remplissage_pct": 35.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 35,
+          "type": "collecte",
+          "poubelle_id": "BIN-063",
+          "position": {
+            "lat": 36.846758,
+            "lng": 10.1429
+          },
+          "volume_a_collecter_m3": 0.2096,
+          "taux_remplissage_pct": 31.8,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 36,
+          "type": "collecte",
+          "poubelle_id": "BIN-049",
+          "position": {
+            "lat": 36.844727,
+            "lng": 10.140177
+          },
+          "volume_a_collecter_m3": 0.0916,
+          "taux_remplissage_pct": 38.2,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 37,
+          "type": "collecte",
+          "poubelle_id": "BIN-067",
+          "position": {
+            "lat": 36.843093,
+            "lng": 10.14288
+          },
+          "volume_a_collecter_m3": 0.0962,
+          "taux_remplissage_pct": 40.1,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 38,
+          "type": "collecte",
+          "poubelle_id": "BIN-074",
+          "position": {
+            "lat": 36.841676,
+            "lng": 10.138171
+          },
+          "volume_a_collecter_m3": 0.0959,
+          "taux_remplissage_pct": 39.9,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 39,
+          "type": "collecte",
+          "poubelle_id": "BIN-050",
+          "position": {
+            "lat": 36.840321,
+            "lng": 10.130674
+          },
+          "volume_a_collecter_m3": 0.0925,
+          "taux_remplissage_pct": 38.6,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 40,
+          "type": "collecte",
+          "poubelle_id": "BIN-059",
+          "position": {
+            "lat": 36.839521,
+            "lng": 10.136079
+          },
+          "volume_a_collecter_m3": 0.2456,
+          "taux_remplissage_pct": 37.2,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 41,
+          "type": "collecte",
+          "poubelle_id": "BIN-058",
+          "position": {
+            "lat": 36.837205,
+            "lng": 10.137884
+          },
+          "volume_a_collecter_m3": 0.2399,
+          "taux_remplissage_pct": 36.4,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 42,
+          "type": "collecte",
+          "poubelle_id": "BIN-045",
+          "position": {
+            "lat": 36.833325,
+            "lng": 10.143271
+          },
+          "volume_a_collecter_m3": 0.0545,
+          "taux_remplissage_pct": 22.7,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 43,
+          "type": "collecte",
+          "poubelle_id": "BIN-073",
+          "position": {
+            "lat": 36.835414,
+            "lng": 10.144949
+          },
+          "volume_a_collecter_m3": 0.2409,
+          "taux_remplissage_pct": 36.5,
+          "statut": "en_attente"
+        },
+        {
+          "ordre": 44,
+          "type": "fin_tournee_decharge",
+          "position": {
+            "lat": 36.92,
+            "lng": 10.08
+          },
+          "raison": "fin_tournee",
+          "decision": "retour_decharge_obligatoire",
+          "camion_relais": null
+        }
+      ]
+    },
+    {
+      "camion_id": "CAM-04",
+      "chauffeur": "Nabil Mansouri",
+      "capacite_chargee_m3": 0.0,
+      "distance_totale_km": 0.0,
+      "duree_estimee_min": 20,
+      "nombre_arrets": 0,
+      "passages_decharge": 1,
+      "sequence": [
+        {
+          "ordre": 1,
+          "type": "fin_tournee_decharge",
+          "position": {
+            "lat": 36.92,
+            "lng": 10.08
+          },
+          "raison": "fin_tournee",
+          "decision": "retour_decharge_obligatoire",
+          "camion_relais": null
+        }
+      ]
+    },
+    {
+      "camion_id": "CAM-05",
+      "chauffeur": "Riadh Ayari",
+      "capacite_chargee_m3": 0.0,
+      "distance_totale_km": 0.0,
+      "duree_estimee_min": 20,
+      "nombre_arrets": 0,
+      "passages_decharge": 1,
+      "sequence": [
+        {
+          "ordre": 1,
+          "type": "fin_tournee_decharge",
+          "position": {
+            "lat": 36.92,
+            "lng": 10.08
+          },
+          "raison": "fin_tournee",
+          "decision": "retour_decharge_obligatoire",
+          "camion_relais": null
+        }
+      ]
+    },
+    {
+      "camion_id": "CAM-06",
+      "chauffeur": "Nabil Mansouri",
+      "capacite_chargee_m3": 0.0,
+      "distance_totale_km": 0.0,
+      "duree_estimee_min": 20,
+      "nombre_arrets": 0,
+      "passages_decharge": 1,
+      "sequence": [
+        {
+          "ordre": 1,
+          "type": "fin_tournee_decharge",
+          "position": {
+            "lat": 36.92,
+            "lng": 10.08
+          },
+          "raison": "fin_tournee",
+          "decision": "retour_decharge_obligatoire",
+          "camion_relais": null
+        }
+      ]
+    }
+  ],
+  "statistiques_globales": {
+    "total_poubelles": 180,
+    "total_poubelles_collectees": 180,
+    "taux_couverture_pct": 100.0,
+    "total_distance_km": 151.23,
+    "total_passages_decharge": 6,
+    "economies_vs_route_standard_pct": 95.4
+  },
+  "evaluation_historique": {
+    "historique_disponible": true,
+    "distance_reference_meme_date_km": 523.98,
+    "distance_moyenne_historique_km": 512.13,
+    "ecart_vs_reference_pct": -71.14,
+    "datasets_utiles": true
+  }
+}
