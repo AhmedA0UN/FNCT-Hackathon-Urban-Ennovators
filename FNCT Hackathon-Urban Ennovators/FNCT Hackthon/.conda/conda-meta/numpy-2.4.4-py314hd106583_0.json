@@ -1,0 +1,41 @@
+{
+  "name": "numpy",
+  "version": "2.4.4",
+  "build": "py314hd106583_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "numpy-2.4.4-py314hd106583_0.conda",
+  "md5": "84cf50b3eeb37b30a3a122b39aecad28",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/numpy-2.4.4-py314hd106583_0.conda",
+  "sha256": "1e7ae68080a750b65fdea2667ecff83430635cae283c9e0171e2e48fad790a4d",
+  "depends": [
+    "blas 1.0 mkl",
+    "mkl >=2025.0.0,<2026.0a0",
+    "mkl-service >=2.3.0,<3.0a0",
+    "mkl_fft",
+    "mkl_random",
+    "numpy-base 2.4.4 py314h5fb32f3_0",
+    "python >=3.14,<3.15.0a0",
+    "python_abi 3.14.* *_cp314",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0",
+  "timestamp": 1775209611000,
+  "size": 19913,
+  "requested_spec": "numpy",
+  "package_tarball_full_path": "C:\\Users\\dhiab\\anaconda3\\pkgs\\numpy-2.4.4-py314hd106583_0.conda",
+  "extracted_package_dir": "C:\\Users\\dhiab\\anaconda3\\pkgs\\numpy-2.4.4-py314hd106583_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\dhiab\\anaconda3\\pkgs\\numpy-2.4.4-py314hd106583_0",
+    "type": 1
+  }
+}

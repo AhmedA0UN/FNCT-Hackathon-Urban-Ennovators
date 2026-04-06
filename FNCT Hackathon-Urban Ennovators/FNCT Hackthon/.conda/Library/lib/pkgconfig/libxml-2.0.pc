@@ -1,0 +1,11 @@
+prefix=f:/FNCT Hackthon/.conda/Library 
+exec_prefix=f:/FNCT Hackthon/.conda/Library 
+libdir=f:/FNCT Hackthon/.conda/Library/lib 
+includedir=f:/FNCT Hackthon/.conda/Library/include 
+modules=0 
+Name: libXML 
+Version: 2.13.9 
+Description: libXML library version2. 
+Requires: 
+Libs: -Lf:/FNCT Hackthon/.conda/Library/lib -lxml2 -liconv -lz 
+Cflags: -If:/FNCT Hackthon/.conda/Library/include/libxml2 -If:/FNCT Hackthon/.conda/Library/include 

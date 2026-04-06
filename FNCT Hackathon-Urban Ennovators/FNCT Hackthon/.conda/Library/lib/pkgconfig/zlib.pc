@@ -1,0 +1,13 @@
+prefix=f:/FNCT Hackthon/.conda/Library
+exec_prefix=f:/FNCT Hackthon/.conda/Library
+libdir=f:/FNCT Hackthon/.conda/Library/lib
+sharedlibdir=f:/FNCT Hackthon/.conda/Library/lib
+includedir=f:/FNCT Hackthon/.conda/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
